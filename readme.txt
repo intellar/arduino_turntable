@@ -9,4 +9,4 @@ This is a demo of the arduino turntable.
 
 Be sure to visit for all the details : https://www.intellar.ca/blog/arduino-controlled-turntable
 
-
+If you found this library useful for your project, please cite intellar.ca and considere giving it a star :star: 
